@@ -1,0 +1,9 @@
+Name:p
+Address:1
+Phone Number:1
+Bookname:Northwood
+Author: Brian Falkner
+Quantity:3
+Price: $9
+Date of borrowed:2019-06-15
+Date to be returned:2019-06-25
